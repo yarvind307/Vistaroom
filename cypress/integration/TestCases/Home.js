@@ -1,6 +1,6 @@
 /// <reference types="Cypress" />
 
-describe('Suite Name', function(){
+describe('Search Functionality', function(){
 
     it('Basic search', function(){
 

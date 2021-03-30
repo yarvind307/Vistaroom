@@ -1,3 +1,6 @@
+/// <reference types="Cypress" />
+
+
 describe('Vistaroom Ng Slider test ', function () {
         
       it("using arrow keys", () => {
